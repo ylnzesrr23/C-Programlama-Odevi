@@ -6,3 +6,4 @@ Veri Yapıları Ödevi
 - Soru 3: Trie veri yapısı
 
 Hazırlayan: Esra Yalnız
+Numara : 1256706054
